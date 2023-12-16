@@ -1,0 +1,6 @@
+.DS_Store
+*/.DS_Store
+*__pycache__
+.ipynb_checkpoints
+evolutionary_computation/lupu_assignment_redo/
+Power Law Analysis.html
